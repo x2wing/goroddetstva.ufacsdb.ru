@@ -1,0 +1,148 @@
+@charset "windows-1251";
+/* CSS Document */
+a.b1 
+{display:block;
+width:256px;
+height:60px;
+background:url(../img/bt/b1.gif) no-repeat;
+cursor:pointer;
+}
+a.b1:hover {
+background:url(../img/bt/b1n.gif) no-repeat;
+}
+a.b2 {
+display:block;
+width:256px;
+height:60px;
+background:url(../img/bt/b2.gif) no-repeat;
+cursor:pointer;
+}
+a.b2:hover {
+background:url(../img/bt/b2n.gif) no-repeat;
+}
+a.b3 {
+display:block;
+width:256px;
+height:90px;
+background:url(../img/bt/b3.gif) no-repeat;
+cursor:pointer;
+}
+a.b3:hover {
+background:url(../img/bt/b3n.gif) no-repeat;
+}
+a.b4 {
+display:block;
+width:256px;
+height:90px;
+background:url(../img/bt/b4.gif) no-repeat;
+cursor:pointer;
+}
+a.b4:hover {
+background:url(../img/bt/b4n.gif) no-repeat;
+}
+a.b5 {
+display:block;
+width:256px;
+height:60px;
+background:url(../img/bt/b5.gif) no-repeat;
+cursor:pointer;
+}
+a.b5:hover {
+background:url(../img/bt/b5n.gif) no-repeat;
+}
+a.b6 {
+display:block;
+width:256px;
+height:60px;
+background:url(../img/bt/b6.gif) no-repeat;
+cursor:pointer;
+}
+a.b6:hover {
+background:url(../img/bt/b6n.gif) no-repeat;
+}
+a.b7 {
+display:block;
+width:256px;
+height:60px;
+background:url(../img/bt/b7.gif) no-repeat;
+cursor:pointer;
+}
+a.b7:hover {
+background:url(../img/bt/b7n.gif) no-repeat;
+}
+a.b8 {
+display:block;
+width:256px;
+height:60px;
+background:url(../img/bt/b8.gif) no-repeat;
+cursor:pointer;
+}
+a.b8:hover {
+background:url(../img/bt/b8n.gif) no-repeat;
+}
+
+a.tb1 {
+display:block;
+width:200px;
+height:40px;
+background:url(../img/bt/tb1.gif) no-repeat;
+cursor:pointer;
+}
+a.tb1:hover {
+background:url(../img/bt/tb1n.gif) no-repeat;
+}
+a.tb2 {
+display:block;
+width:200px;
+height:40px;
+background:url(../img/bt/tb2.gif) no-repeat;
+cursor:pointer;
+}
+a.tb2:hover {
+background:url(../img/bt/tb2n.gif) no-repeat;
+}
+a.tb3 {
+display:block;
+width:200px;
+height:40px;
+background:url(../img/bt/tb3.gif) no-repeat;
+cursor:pointer;
+}
+a.tb3:hover {
+background:url(../img/bt/tb3n.gif) no-repeat;
+}
+a.tb4 {
+display:block;
+width:200px;
+height:40px;
+background:url(../img/bt/tb4.gif) no-repeat;
+cursor:pointer;
+}
+a.tb4:hover {
+background:url(../img/bt/tb4n.gif) no-repeat;
+}
+a.tb5 {
+display:block;
+width:200px;
+height:40px;
+background:url(../img/bt/tb5.gif) no-repeat;
+cursor:pointer;
+}
+a.tb5:hover {
+background:url(../img/bt/tb5n.gif) no-repeat;
+}
+
+
+p.h {color:#006; text-align:center; font-weight:bold; font-size:30px; font-family:"Comic Sans MS", cursive; line-height:150%; margin-left:50px; margin-right:50px; margin-top:20px; margin-bottom:20px}
+p.hs {color:#006; text-align:center; font-weight:bold; font-size:22px; font-family:"Comic Sans MS", cursive; line-height:150%; margin-left:10px; margin-right:10px; margin-top:20px; margin-bottom:10px}
+p {color:#000; text-align:justify; font-size:22px; font-family:"Times New Roman", Times, serif; text-indent:40px; line-height:150%; font-weight:bold; margin-left:50px; margin-right:50px; margin-top:0px; margin-bottom:0px}
+p.i {color:#000; text-align:left; font-size:22px; font-family:"Times New Roman", Times, serif; text-indent:40px; line-height:150%; font-style:italic; margin-left:70px; margin-right:50px; margin-top:0px; margin-bottom:0px}
+p.c {color:#000; text-align:left; font-size:22px; font-family:"Times New Roman", Times, serif; text-indent:40px; line-height:150%; text-decoration:underline; margin-left:50px; margin-right:50px; margin-top:0px; margin-bottom:0px}
+ul.l {list-style-type:disk; color:#000; text-align: justify; list-style-position:outside; font-size:22px; font-family:"Times New Roman", Times, serif; line-height:150%; font-weight:bold; margin-left:50px; margin-right:50px; margin-top:0px; margin-bottom:0px}
+
+a.s:link {color:#00F; text-indent:40px; text-align:left; text-decoration:none; font-size:22px; font-family:"Times New Roman", Times, serif; text-indent:40px; line-height:150%; font-weight:bold; margin-left:50px; margin-top:0px; margin-bottom:0px}
+a.s:visited {color:#00F; text-indent:40px; text-align:left; text-decoration:none; font-size:22px; font-family:"Times New Roman", Times, serif; text-indent:40px; line-height:150%; font-weight:bold; margin-left:50px; margin-top:0px; margin-bottom:0px}
+a.s:hover {color:#6C3}
+
+A.img IMG {border:2px solid #006; margin-left:5px}
+A.img:visited IMG {border: 2px solid #006}
